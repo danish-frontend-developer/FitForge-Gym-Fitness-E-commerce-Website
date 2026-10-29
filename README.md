@@ -1,53 +1,50 @@
 
-# FitForge — Gym & Fitness Store 💪
+# 🏋️ FitForge — Gym & Fitness Website
 
-A responsive fitness e-commerce website demo built with HTML, CSS, and JavaScript.
+A modern gym and fitness website built to showcase fitness programs, workout information, and a clean user experience.
 
-🌐 **[View Live Website](https://danish-frontend-developer.github.io/FitForge-Gym-Fitness-E-commerce-Website/)**
+## 🌐 Live Demo
 
-## ✨ Features
+[View FitForge Website](https://danish-frontend-developer.github.io/FitForge-Gym-Fitness-E-commerce-Website/)
 
-- Responsive design for desktop, tablet, and mobile
-- Product search and sorting
-- Product categories and quick-view modal
-- Shopping cart with quantity controls
-- Remove products and calculate subtotal
-- Cart data saved using localStorage
-- Free-shipping progress indicator
-- Demo checkout interaction
-- Newsletter form interaction
-- Keyboard accessibility and reduced-motion support
-
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript
-- Browser localStorage
-- Git and GitHub Pages
+- JavaScript (ES6+)
+
+## ✨ Features
+
+- Responsive website layout
+- Modern fitness-focused design
+- Workout and fitness information
+- Interactive elements using JavaScript
+- Clean navigation and user interface
+
+## 📱 Responsive Design
+
+Designed to provide a user-friendly experience across desktop and mobile screen sizes.
 
 ## 🚀 Run Locally
 
-1. Download or clone this repository.
-2. Open the project folder in VS Code.
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/danish-frontend-developer/FitForge-Gym-Fitness-E-commerce-Website.git
+   ```
+
+2. Open the project folder.
 3. Open `index.html` in your browser.
-4. Alternatively, use the VS Code Live Server extension.
-
-No build tools or package installation are required.
-
-## 🔗 Project Links
-
-- **Live Demo:** https://danish-frontend-developer.github.io/FitForge-Gym-Fitness-E-commerce-Website/
-- **GitHub Repository:** https://github.com/danish-frontend-developer/FitForge-Gym-Fitness-E-commerce-Website
-
-## 📌 Project Note
-
-This is a frontend portfolio project. Checkout, newsletter signup, and product data are demo features. No real payments or backend services are connected.
 
 ## 👨‍💻 Developer
 
-**Md Danish Alam**
+**Md Danish** — Frontend Developer
 
-- GitHub: https://github.com/danish-frontend-developer
-- LinkedIn: https://www.linkedin.com/in/md-danish-alam-935b29326/
+- [GitHub Profile](https://github.com/danish-frontend-developer)
+- [Portfolio Website](https://danish-frontend-developer.github.io/danish-frontend-portfolio/)
+
+---
+
+If you find this project useful, feel free to explore the source code.
+
 
